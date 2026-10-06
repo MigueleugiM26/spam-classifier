@@ -1,3 +1,5 @@
+
+
 # Classificador de Spam
 
 Interface web local que classifica mensagens de texto como spam ou legítimas
@@ -5,6 +7,8 @@ usando um modelo Naive Bayes treinado com o conjunto de dados SMS Spam Collectio
 
 Além do resultado, a página exibe quais palavras mais influenciaram a classificação
 e o peso relativo de cada uma.
+
+![preview](public/thumb.webp)
 
 ---
 
